@@ -3,7 +3,7 @@ const button = document.getElementById('t');
 const loader = document.getElementById('fa');
 
 
-const url = 'https://world.openfoodfacts.org/api/v0/product/737628064502.json';
+const url = 'https://yesno.wtf/api';
 
 
 button.addEventListener('click', function() {
