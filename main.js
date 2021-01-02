@@ -3,7 +3,7 @@ const button = document.getElementById('t');
 const loader = document.getElementById('fa');
 
 
-const url = 'https://universities.hipolabs.com/search?country=nigeria';
+const url = 'https://world.openfoodfacts.org/api/v0/product/737628064502.json';
 
 
 button.addEventListener('click', function() {
