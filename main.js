@@ -3,7 +3,7 @@ const button = document.getElementById('t');
 const loader = document.getElementById('fa');
 
 
-const url = 'http://universities.hipolabs.com/search?country=nigeria';
+const url = 'https://universities.hipolabs.com/search?country=nigeria';
 
 
 button.addEventListener('click', function() {
